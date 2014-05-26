@@ -5,6 +5,7 @@ A Step-by-Step Guide to Your First AngularJS App:
 
 
 ===============================================================================
+Original README:
 ===============================================================================
 # angular-seed — the seed for AngularJS apps
 
