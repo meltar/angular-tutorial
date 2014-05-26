@@ -1,9 +1,10 @@
-# angular-tutorial is a fork of angular-seed
+# angular-tutorial
 
-A Step-by-Step Guide to Your First AngularJS App
+A Step-by-Step Guide to Your First AngularJS App:  
 [http://www.toptal.com/angular-js/a-step-by-step-guide-to-your-first-angularjs-app](http://www.toptal.com/angular-js/a-step-by-step-guide-to-your-first-angularjs-app)
 
 
+===============================================================================
 ===============================================================================
 # angular-seed — the seed for AngularJS apps
 
